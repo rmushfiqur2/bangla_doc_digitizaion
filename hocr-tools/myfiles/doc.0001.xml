@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2021-05-22T00:43:04</Created>
+	<LastChange>2021-05-22T00:43:04</LastChange></Metadata>
+	<Page imageFilename="NBR_scanned_10.jpg" imageWidth="1499" imageHeight="2200">
+	<TextRegion id="tempReg357564684568544579089">
+	<Coords points="0,0 1,0 1,1 0,1"/>
+	<TextLine id="l0">
+	<Coords points="146,164 146,257 592,257 592,164"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextLine>
+	<TextLine id="l1">
+	<Coords points="838,180 838,258 1300,258 1300,180"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextLine>
+	<TextLine id="l2">
+	<Coords points="1038,678 1038,746 1324,746 1324,678"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextLine>
+	<TextLine id="l3">
+	<Coords points="1040,757 1040,826 1325,826 1325,757"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextLine>
+	<TextLine id="l4">
+	<Coords points="1038,839 1038,900 1324,900 1324,839"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextLine>
+	<TextLine id="l5">
+	<Coords points="1038,915 1038,989 1321,989 1321,915"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextLine>
+	<TextLine id="l6">
+	<Coords points="1037,1083 1037,1151 1323,1151 1323,1083"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextLine>
+	<TextLine id="l7">
+	<Coords points="1037,1160 1037,1227 1322,1227 1322,1160"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextLine>
+	<TextLine id="l8">
+	<Coords points="1041,1241 1041,1305 1321,1305 1321,1241"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextLine>
+	<TextLine id="l9">
+	<Coords points="1038,1315 1038,1385 1324,1385 1324,1315"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextLine>
+	<TextLine id="l10">
+	<Coords points="1041,1396 1328,1396 1328,1460 1041,1460"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextLine>
+	<TextLine id="l13">
+	<Coords points="1040,1477 1040,1543 1324,1543 1324,1477"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextLine>
+	<TextLine id="l14">
+	<Coords points="1043,1556 1325,1556 1325,1617 1043,1617"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextLine>
+	<TextLine id="l15">
+	<Coords points="1043,1637 1043,1700 1324,1700 1324,1637"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextLine>
+	<TextLine id="l16">
+	<Coords points="1043,1717 1327,1717 1327,1783 1043,1783"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextLine>
+	<TextLine id="l17">
+	<Coords points="1044,1876 1325,1876 1325,1944 1044,1944"/>
+	<TextEquiv>
+	<Unicode></Unicode></TextEquiv></TextLine></TextRegion></Page></PcGts>

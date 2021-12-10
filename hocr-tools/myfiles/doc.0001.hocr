@@ -1,0 +1,15 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta>
+      <link rel="stylesheet" href=""></link>
+      <title>OCR Output</title>
+      <meta name="description" content="OCR Output via XSLT of pageXML."></meta>
+   </head>
+   <body>
+      <div class="ocr_page" title="bbox 0 0 1499 2200; image 'image/NBR_scanned_10.jpg';">
+         <div class="ocr_carea" title="bbox 0 0 1 1">
+            <p class="ocr_par" title="bbox 0 0 1 1"><span class="ocr_line" title="bbox 146 164 592 257"></span><span class="ocr_line" title="bbox 838 180 1300 258"></span><span class="ocr_line" title="bbox 1038 678 1324 746"></span><span class="ocr_line" title="bbox 1040 757 1325 826"></span><span class="ocr_line" title="bbox 1038 839 1324 900"></span><span class="ocr_line" title="bbox 1038 915 1321 989"></span><span class="ocr_line" title="bbox 1037 1083 1323 1151"></span><span class="ocr_line" title="bbox 1037 1160 1322 1227"></span><span class="ocr_line" title="bbox 1041 1241 1321 1305"></span><span class="ocr_line" title="bbox 1038 1315 1324 1385"></span><span class="ocr_line" title="bbox 1041 1396 1328 1460"></span><span class="ocr_line" title="bbox 1040 1477 1324 1543"></span><span class="ocr_line" title="bbox 1043 1556 1325 1617"></span><span class="ocr_line" title="bbox 1043 1637 1324 1700"></span><span class="ocr_line" title="bbox 1043 1717 1327 1783"></span><span class="ocr_line" title="bbox 1044 1876 1325 1944"></span></p>
+         </div>
+      </div>
+   </body>
+</html>
